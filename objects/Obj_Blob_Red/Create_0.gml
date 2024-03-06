@@ -1,6 +1,6 @@
-/// @description Init values
+/// @description Number 1
 
-#macro SPEED 7
-active = true;
 
+// Inherit the parent event
+event_inherited();
 

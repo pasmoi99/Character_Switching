@@ -20,6 +20,8 @@
     {"name":"Spr_Block","order":3,"path":"sprites/Spr_Block/Spr_Block.yy",},
     {"name":"Obj_GameManager","order":1,"path":"objects/Obj_GameManager/Obj_GameManager.yy",},
     {"name":"Spr_Blob_Red","order":1,"path":"sprites/Spr_Blob_Red/Spr_Blob_Red.yy",},
+    {"name":"Obj_Blob_Yellow","order":3,"path":"objects/Obj_Blob_Yellow/Obj_Blob_Yellow.yy",},
+    {"name":"Blob_Parent","order":2,"path":"objects/Blob_Parent/Blob_Parent.yy",},
     {"name":"Spr_Blob_Yellow","order":2,"path":"sprites/Spr_Blob_Yellow/Spr_Blob_Yellow.yy",},
   ],
 }
